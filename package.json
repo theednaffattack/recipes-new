@@ -1,0 +1,9 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "A collection of markdown recipes.",
+  "main": "main.js",
+  "author": "Eddie Naff <eddie@eddienaff.dev>",
+  "license": "MIT",
+  "private": false
+}
