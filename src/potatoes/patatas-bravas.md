@@ -59,3 +59,15 @@ Original recipe yields 4 servings
 4. Stir potatoes into water-paprika mixture, bring to a boil, and simmer until potatoes are tender but not fully cooked, 4 to 5 minutes. The tip of a paring knife should easily insert into the center of a potato cube. Drain potatoes and transfer to a wire rack to cool completely, about 45 minutes.
 
 5. Heat vegetable oil in a large cast iron skillet or Dutch oven to 350 degrees F (175 degrees C). Add cooled potato cubes and cook, stirring frequently, until golden brown, 5 to 6 minutes. Transfer potatoes to a baking sheet lined with paper towels to cool slightly. Toss in a bowl with spice blend and serve with dipping sauce.
+
+### Air Fryer
+
+Instructions
+
+1. Peel the potatoes and wash with cold water. Pat the potatoes dry
+2. Cut the potatoes in half and then into 4 equal strips then cut the strips in 4 to 8 cubes
+3. Take a pan with water and bring to a boil. Cook the potatoes for 2 minutes then drain and let the potatoes cool on a cutting board
+4. Sprinkle 1-2 tablespoons olive oil on the cubes and brush to coat the potatoes. You can also pour the olive oil into a Ziploc bag or food container add the olive oil and shake to coat the potatoes
+5. Preheat the Air Fryer for 3 minutes. Put the patatas bravas in the Air Fryer basket lined with a parchment paper liner
+6. Air Fry for 22 minutes and shake every 5 minutes to prevent the patatas from sticking together and to brown evenly
+7. Serve immediately
